@@ -1,0 +1,7 @@
+{
+  "name": "node-domexception",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Mock node-domexception pointing to native globalThis.DOMException",
+  "private": true
+}

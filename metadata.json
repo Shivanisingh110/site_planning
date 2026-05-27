@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Site Planning Dashboard",
+  "description": "A comprehensive dashboard for site planning, featuring task tracking, supervisor overviews, mobile/gallery media uploads, and integration with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
